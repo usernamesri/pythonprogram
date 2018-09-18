@@ -1,6 +1,6 @@
 n=int(input())
-count=0
+co=0
 while(n>0):
-    count=count+1
+    co=co+1
     n=n//10
-print(count)
+print(co)
